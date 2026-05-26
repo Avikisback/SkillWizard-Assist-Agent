@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "user_123",
+    "target": "Frontend Developer",
+    "current_phase": "JavaScript Basics",
+    "completed_topics": ["Variables", "Loops"],
+    "pending_topics": ["Promises", "Async/Await"],
+    "streak": 5
+  },
+  {
+    "user_id": "user_456",
+    "target": "Backend Developer",
+    "current_phase": "Python Fundamentals",
+    "completed_topics": ["Syntax", "Functions"],
+    "pending_topics": ["Classes", "Modules"],
+    "streak": 2
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "user": "What should I do today?",
+    "assistant": "You are in 'JavaScript Basics' with a 5-day streak. Study 'Promises' next. It builds on Loops and keeps momentum in your current phase.",
+    "timestamp": "2026-05-26T10:53:13.220955"
+  },
+  {
+    "user": "What should I do today?",
+    "assistant": "You are in 'JavaScript Basics' with a 5-day streak. Study 'Promises' next. It builds on Loops and keeps momentum in your current phase.",
+    "timestamp": "2026-05-26T11:01:55.763299"
+  },
+  {
+    "user": "What should I do today?",
+    "assistant": "You are currently in the JavaScript Basics phase with a 5-day streak. Your suggested plan for today is to study Promises next. This will build on your understanding of Loops and help maintain your momentum in this phase. Happy studying!",
+    "timestamp": "2026-05-26T11:07:04.118180"
+  }
+]
